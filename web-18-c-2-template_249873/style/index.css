@@ -1,0 +1,14 @@
+#navbar{
+    display: flex;
+    justify-content: end;
+   
+  }
+  #navbar>div{
+    margin-left: 15px;
+  }
+  a{
+    color: black;
+    margin-left: 15px;
+  }
+
+ 
